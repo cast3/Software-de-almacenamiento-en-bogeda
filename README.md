@@ -5,14 +5,14 @@ Proyecto_2/Programaciòn2
 
 ###
 **Software de programacion 2.**
->Tutor: Michael Sneider Puentes Palacio
+> Tutor: Michael Sneider Puentes Palacio
 
->Estudiante: Andrés Felipe Castellanos Lizcano
+> Estudiante: Andrés Felipe Castellanos Lizcano
 
 El presente recado es para presentar el software en desarrollo para el proceso de 4 semestre en la Universidad de investigacion y desarrollo(UDI).
 
 Para empezar el software contienen varios temas, que en fin de semestre se veran recaldados en este documento.
->Tales temas son:
+> Tales temas son:
 
 - Herencia
 
@@ -34,7 +34,7 @@ Para empezar el software contienen varios temas, que en fin de semestre se veran
 
 ***Televisores***
 
-El programa está diseñado para almacenar información puntual acerca de un manejo de informacion misma, es decir, está informacion se tendra en el guardada en el programa tal informacion sera;Cantidad de televisores, cuantas pulgadas tiene, que resolucion,marca del producto y propietario.
+El programa está diseñado para almacenar información puntual acerca de un manejo de informacion misma, es decir, está informacion se tendra en el mismo, tal informacion sera;Cantidad de televisores, cuantas pulgadas tiene, que resolucion,marca del producto y propietario.
 
 
 Por lo tanto el software está diseñado para un almacen, que en si disponga del suficiente espacio y informacion clara del uso de este.
@@ -47,15 +47,21 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 
 - Descargas los siguientes archivos.(Obligatorio)
 
->1.DLL_graficador.dll
+> 1.DLL_graficador.dll
 
->2.DLL_Sumatoria_raiz.dll
+> 2.DLL_Sumatoria_raiz.dll
 
->3.TP_2
+> 3.TP_2
 
 
 - Al haberlos descargado procedemos a guardarlos en un lugar que sea fácil llegar y estos tres archivos juntos.
 
 - Abrimos el archivo TP_2.
 
->Listo!.
+> Listo!.
+
+```
+git status
+git add
+git commit
+```
