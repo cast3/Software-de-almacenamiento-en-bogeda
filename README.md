@@ -36,5 +36,6 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 3.TP_2
 
 ⋅⋅*Al haberlos descargado procedemos a guardarlos en un lugar que sea fácil llegar y estos tres archivos juntos.
+
 ⋅⋅*Abrimos el archivo TP_2.
 Listo!.
