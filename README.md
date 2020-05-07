@@ -62,6 +62,4 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 
 ```
 git status
-git add
-git commit
 ```
