@@ -3,7 +3,7 @@ Proyecto_2/Programaciòn2
 
 
 ---
-###Software de programacion 2.
+###Software de programacion 2.###
 Tutor: Michael Sneider Puentes Palacio
 Estudiante: Andrés Felipe Castellanos Lizcano
 
@@ -29,11 +29,16 @@ Asi mismo se graficara su porcentaje de cantidad de televisores correspondiente 
 En principal formato se subira un ejecutable para la calificacion de este mismo por el docente.
 
 ---
-##Instalacion del software.
+##Instalacion del software.##
+
 ⋅⋅*Descargas los siguientes archivos.(Obligatorio)
+
 1.DLL_graficador.dll
+
 2.DLL_Sumatoria_raiz.dll
+
 3.TP_2
+
 
 ⋅⋅*Al haberlos descargado procedemos a guardarlos en un lugar que sea fácil llegar y estos tres archivos juntos.
 
