@@ -47,11 +47,11 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 
 - Descargas los siguientes archivos.(Obligatorio)
 
-> - [x] 1.DLL_graficador.dll
+- [x] 1.DLL_graficador.dll
 
-> - [x] 2.DLL_Sumatoria_raiz.dll
+- [x] 2.DLL_Sumatoria_raiz.dll
 
-> - [x] 3.TP_2
+- [x] 3.TP_2
 
 
 - Al haberlos descargado procedemos a guardarlos en un lugar que sea fácil llegar a estos tres archivos juntos.
