@@ -6,6 +6,7 @@ Proyecto_2/Programaciòn2
 ##
 **Software de programacion 2.**
 >Tutor: Michael Sneider Puentes Palacio
+
 >Estudiante: Andrés Felipe Castellanos Lizcano
 
 El presente recado es para presentar el software en desarrollo para el proceso de 4 semestre en la Universidad de investigacion y desarrollo(UDI).
