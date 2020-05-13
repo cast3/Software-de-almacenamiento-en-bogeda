@@ -77,7 +77,7 @@ Por tanto también se utilizan eventos que recrean utlidades, como *dobleclick*,
 
 El menu principal está compuesto por varios panel dónde el usuario manipulara para ingresar o recuperar información del mismo.
 
-    - En el primer panel encontramos ciertos datos especificos a ingresar tal panel actuara como principal motor de guardado de datos. Tales datos serian.
+En el primer panel encontramos ciertos datos especificos a ingresar tal panel actuara como principal motor de guardado de datos. Tales datos serian.
 
 ![. ][img_registro]
 
