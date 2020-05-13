@@ -6,13 +6,14 @@ Proyecto_2/Programaciòn2
 [img_arch]: https://user-images.githubusercontent.com/62570607/81858953-2af3b080-952a-11ea-81b4-6782999bfa09.jpg "Previsualizacion archivos"
 [img_prog]: https://user-images.githubusercontent.com/62570607/81858935-24653900-952a-11ea-8e68-35d9db080fa0.jpg "Previsualizacion programa"
 [img_log]: https://user-images.githubusercontent.com/62570607/81858950-2929ed00-952a-11ea-9e74-5e8ec14a169b.jpg "Logistica"
-[img_registro]: https://user-images.githubusercontent.com/62570607/81863569-0fd86f00-9531-11ea-9a98-b327a1105279.png "Registros"
 [img_ajust]: https://user-images.githubusercontent.com/62570607/81863560-0e0eab80-9531-11ea-9587-6bc663b5ac21.png  "Ajustes"
 [img_ajust2]: https://user-images.githubusercontent.com/62570607/81863562-0ea74200-9531-11ea-8ef0-061e09021af2.png  "Idiomas"
 [img_calculo]: https://user-images.githubusercontent.com/62570607/81863563-0ea74200-9531-11ea-9068-474bc6dde004.png  "Suma de raiz"
 [img_grafico]: https://user-images.githubusercontent.com/62570607/81863564-0f3fd880-9531-11ea-8c11-1a5bffb5893b.png  "Grafico"
 [img_usercontrol]: https://user-images.githubusercontent.com/62570607/81863566-0f3fd880-9531-11ea-9d72-ad90860f3335.PNG  "Datos"
 [img_credi]: https://user-images.githubusercontent.com/62570607/81863567-0f3fd880-9531-11ea-9327-252fbbeb6147.png  "Creditos"
+[img_registro]:https://user-images.githubusercontent.com/62570607/81863572-0fd86f00-9531-11ea-9c6c-9e5f25eaa9c4.png "Registros"
+[img_modif]: https://user-images.githubusercontent.com/62570607/81863569-0fd86f00-9531-11ea-9a98-b327a1105279.png "modificara"
 ###
 **Software de programacion 2.**
 
@@ -76,7 +77,7 @@ Por tanto también se utilizan eventos que recrean utlidades, como *dobleclick*,
 
 El menu principal está compuesto por varios panel dónde el usuario manipulara para ingresar o recuperar información del mismo.
 
-  - En el primer panel encontramos ciertos datos especificos a ingresar tal panel actuara como principal motor de guardado de datos. Tales datos serian.
+    - En el primer panel encontramos ciertos datos especificos a ingresar tal panel actuara como principal motor de guardado de datos. Tales datos serian.
 
 ![. ][img_registro]
 
@@ -85,12 +86,22 @@ Esté tornara el roll a la entrega de datos a la base de datos. Asi mismo, se cr
 
 ![. ][img_usercontrol]
 
-Por otra parte se creara un grafico que contendra informacion en porcentual a los televisores almacenados y esté se modificara si el usuario lo desea. (DLL_graficador)
+Si presionamos el boton **Actualizar** abrira una segunda ventana que sera un control de datos, ya sea para modificar informacion y ponerlo en modo inactivo/activo.
+
+Y registrara la nueva informacion presionando **Registrar**.
+
+![. ][img_registro]
+
+Por otra parte se creara un grafico que contendra informacion en porcentual a los televisores almacenados y esté se modificara si el usuario lo desea. *(DLL_graficador)*
+
+El boton **tags** o **Etiquetas**, Configurara mostrar o no la cantidad de porcentaje de cada marca en el grafico.
 
 ![. ][img_grafico]
 
 El tercer panel dónde podra hacer un evento de suma de raiz, esto significa que con el fin que una seria de numeros digitados, se sumen cada uno de los dígitos hasta que quede solo un dígito.
-Y se añade de forma como Librerias (DLL_Sumatoria_raiz).
+Y se añade de forma como Librerias *(DLL_Sumatoria_raiz)*.
+
+Al presional **Cacular** enviara la cadena de numeros y en el siguiente *textbox* regresara el resultado.
 
 ![. ][img_calculo]
 
