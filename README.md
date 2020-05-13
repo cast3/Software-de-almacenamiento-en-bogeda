@@ -159,7 +159,7 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 
 
 ![. ][img_prog]
-> Listo!.
+> **Listo!.**
 
 ```
 Console.writeLine("Hello wordl")
