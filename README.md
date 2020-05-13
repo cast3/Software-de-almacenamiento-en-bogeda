@@ -3,9 +3,9 @@
 
 Proyecto_2/Programaciòn2
 
-[img_arch]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_archivos.jpg" "Previsualizacion archivos"
-[img_prog]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_programa.jpg" "Previsualizacion programa"
-[img_log]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_logistica.jpg" "Logistica"
+[img_arch]: https://user-images.githubusercontent.com/62570607/81858953-2af3b080-952a-11ea-81b4-6782999bfa09.jpg "Previsualizacion archivos"
+[img_prog]: https://user-images.githubusercontent.com/62570607/81858935-24653900-952a-11ea-8e68-35d9db080fa0.jpg "Previsualizacion programa"
+[img_log]: https://user-images.githubusercontent.com/62570607/81858950-2929ed00-952a-11ea-9e74-5e8ec14a169b.jpg "Logistica"
 ###
 **Software de programacion 2.**
 
