@@ -1,8 +1,11 @@
-# cast3
+###
+> ___cast3___
+
 Proyecto_2/Programaciòn2
 
-
-
+[img_arch]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_archivos.jpg" "Previsualizacion archivos"
+[img_prog]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_programa.jpg" "Previsualizacion programa"
+[img_log]: "C:\Users\Felipe\Documents\GitHub\cast3\Imagen_logistica.jpg" "Logistica"
 ###
 **Software de programacion 2.**
 
@@ -17,7 +20,7 @@ Proyecto_2/Programaciòn2
 
 El presente recado es para presentar el software en desarrollo para el proceso de 4 semestre en la Universidad de investigacion y desarrollo(UDI).
 
-Para empezar el software contienen varios temas, que en fin de semestre se veran recaldados en este documento.
+Para empezar el software contienen varios temas y esta hecho en c#, que en fin de semestre se veran recaldados en este documento.
 
  Tales temas son:
 
@@ -31,7 +34,7 @@ Para empezar el software contienen varios temas, que en fin de semestre se veran
 
 - MVC
 
-- Librerias(Dll)
+- Librerias  (Dll)
 
 - Futuros temas...
 
@@ -46,7 +49,7 @@ Referencias:
 El programa está diseñado para almacenar información puntual acerca de un manejo de informacion misma, es decir, está informacion se tendra en el mismo, tal informacion sera;Cantidad de televisores, cuantas pulgadas tiene, que resolucion,marca del producto y propietario.
 
 
-![Texto alternativo](C:\Users\Felipe\Documents\GitHub\cast3\Imagen_logistica.jpg)
+![. ][img_log]
 
 Por lo tanto el software está diseñado para un almacen, que en si disponga del suficiente espacio y informacion clara del uso de este.
 Asi mismo se graficara su porcentaje de cantidad de televisores correspondiente a la marca.Asi si disponen de un proveedor esté tendra información clara del manejo que tiene en el almacen.
@@ -56,8 +59,10 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 ###
 ***Instalacion del software.***
 
+
+
 - Descargas los siguientes archivos.(Obligatorio)  
-(Ubicados en Programa_portable)
+(Ubicados en [Programa_portable](https://github.com/cast3/cast3/tree/master/Programa_portable) )
 
 - [x] 1. DLL_graficador.dll
 
@@ -71,14 +76,14 @@ En principal formato se subira un ejecutable para la calificacion de este mismo 
 
 
 
-![Texto alternativo](C:\Users\Felipe\Documents\GitHub\cast3\Imagen_archivos.jpg)
+![. ][img_arch]
 
 - Al haberlos descargado procedemos a guardarlos en un lugar que sea fácil llegar a estos archivos juntos.
 
 - Abrimos el archivo TP_2.exe
 
 
-![Texto alternativo](C:\Users\Felipe\Documents\GitHub\cast3\Imagen_programa.jpg)
+![. ][img_prog]
 > Listo!.
 
 ```
